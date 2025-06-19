@@ -1,5 +1,5 @@
 # 5.7 Практическая работа
-![Logotype]([https://go.skillbox.ru/education/my](https://cdn.skillbox.pro/lms-front/skillbox/442391/assets/img/app-logo/brand.svg))
+![Logotype](https://cdn.skillbox.pro/lms-front/skillbox/442391/assets/img/app-logo/brand.svg)
 ## Цели практической работы
 *Развить навыки профессионального развёртывания простых программ с использованием Docker.*
 *Научиться оформлять и представлять свой проект.*
